@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Restful API Automation" parallel="classes"	thread-count="1" verbose="10"> 
+ 
+ <test name="Testcases" preserve-order="true">
+   <classes> 
+      <class name="com.tr.DTM.testcases.DB.ProdDBQuery"/>  
+    </classes>
+</test> 
+ 
+   
+</suite>
