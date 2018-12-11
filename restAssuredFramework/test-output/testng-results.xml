@@ -2,15 +2,15 @@
 <testng-results skipped="2" failed="0" ignored="0" total="2" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="499" started-at="2018-12-07T08:37:28Z" finished-at="2018-12-07T08:37:29Z">
+  <suite name="Default suite" duration-ms="526" started-at="2018-12-11T12:14:47Z" finished-at="2018-12-11T12:14:48Z">
     <groups>
       <group name="Smoke">
-        <method signature="ProdDBQuery.getProdDBQuery(java.lang.String, java.util.Hashtable)[pri:0, instance:com.tr.DTM.testcases.DB.ProdDBQuery@5e3a8624]" name="getProdDBQuery" class="com.tr.DTM.testcases.DB.ProdDBQuery"/>
+        <method signature="ProdDBQuery.getProdDBQuery(java.lang.String, java.util.Hashtable)[pri:0, instance:com.tr.DTM.testcases.DB.ProdDBQuery@27efef64]" name="getProdDBQuery" class="com.tr.DTM.testcases.DB.ProdDBQuery"/>
       </group> <!-- Smoke -->
     </groups>
-    <test name="Default test" duration-ms="499" started-at="2018-12-07T08:37:28Z" finished-at="2018-12-07T08:37:29Z">
+    <test name="Default test" duration-ms="526" started-at="2018-12-11T12:14:47Z" finished-at="2018-12-11T12:14:48Z">
       <class name="com.tr.DTM.testcases.DB.ProdDBQuery">
-        <test-method status="SKIP" signature="isTcSkip()[pri:0, instance:com.tr.DTM.testcases.DB.ProdDBQuery@5e3a8624]" name="isTcSkip" is-config="true" duration-ms="6" started-at="2018-12-07T08:37:29Z" finished-at="2018-12-07T08:37:29Z">
+        <test-method status="SKIP" signature="isTcSkip()[pri:0, instance:com.tr.DTM.testcases.DB.ProdDBQuery@27efef64]" name="isTcSkip" is-config="true" duration-ms="5" started-at="2018-12-11T12:14:48Z" finished-at="2018-12-11T12:14:48Z">
           <exception class="org.testng.SkipException">
             <message>
               <![CDATA[skipping the Scenario as Run Mode : N]]>
@@ -52,7 +52,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- isTcSkip -->
-        <test-method status="SKIP" signature="getProdDBQuery(java.lang.String, java.util.Hashtable)[pri:0, instance:com.tr.DTM.testcases.DB.ProdDBQuery@5e3a8624]" name="getProdDBQuery" duration-ms="0" started-at="2018-12-07T08:37:29Z" data-provider="ExcelData" finished-at="2018-12-07T08:37:29Z">
+        <test-method status="SKIP" signature="getProdDBQuery(java.lang.String, java.util.Hashtable)[pri:0, instance:com.tr.DTM.testcases.DB.ProdDBQuery@27efef64]" name="getProdDBQuery" duration-ms="0" started-at="2018-12-11T12:14:48Z" data-provider="ExcelData" finished-at="2018-12-11T12:14:48Z">
           <exception class="org.testng.SkipException">
             <message>
               <![CDATA[skipping the Scenario as Run Mode : N]]>
@@ -94,11 +94,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getProdDBQuery -->
-        <test-method status="SKIP" signature="isTcSkip()[pri:0, instance:com.tr.DTM.testcases.DB.ProdDBQuery@5e3a8624]" name="isTcSkip" is-config="true" duration-ms="0" started-at="2018-12-07T08:37:29Z" finished-at="2018-12-07T08:37:29Z">
+        <test-method status="SKIP" signature="isTcSkip()[pri:0, instance:com.tr.DTM.testcases.DB.ProdDBQuery@27efef64]" name="isTcSkip" is-config="true" duration-ms="0" started-at="2018-12-11T12:14:48Z" finished-at="2018-12-11T12:14:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- isTcSkip -->
-        <test-method status="SKIP" signature="getProdDBQuery(java.lang.String, java.util.Hashtable)[pri:0, instance:com.tr.DTM.testcases.DB.ProdDBQuery@5e3a8624]" name="getProdDBQuery" duration-ms="0" started-at="2018-12-07T08:37:29Z" data-provider="ExcelData" finished-at="2018-12-07T08:37:29Z">
+        <test-method status="SKIP" signature="getProdDBQuery(java.lang.String, java.util.Hashtable)[pri:0, instance:com.tr.DTM.testcases.DB.ProdDBQuery@27efef64]" name="getProdDBQuery" duration-ms="0" started-at="2018-12-11T12:14:48Z" data-provider="ExcelData" finished-at="2018-12-11T12:14:48Z">
           <exception class="org.testng.SkipException">
             <message>
               <![CDATA[skipping the Scenario as Run Mode : N]]>
