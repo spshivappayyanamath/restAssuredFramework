@@ -2,22 +2,22 @@
 <testng-results skipped="2" failed="0" ignored="0" total="2" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="526" started-at="2018-12-11T12:14:47Z" finished-at="2018-12-11T12:14:48Z">
+  <suite name="Default suite" duration-ms="523" started-at="2018-12-12T09:54:30Z" finished-at="2018-12-12T09:54:30Z">
     <groups>
       <group name="Smoke">
         <method signature="ProdDBQuery.getProdDBQuery(java.lang.String, java.util.Hashtable)[pri:0, instance:com.tr.DTM.testcases.DB.ProdDBQuery@27efef64]" name="getProdDBQuery" class="com.tr.DTM.testcases.DB.ProdDBQuery"/>
       </group> <!-- Smoke -->
     </groups>
-    <test name="Default test" duration-ms="526" started-at="2018-12-11T12:14:47Z" finished-at="2018-12-11T12:14:48Z">
+    <test name="Default test" duration-ms="523" started-at="2018-12-12T09:54:30Z" finished-at="2018-12-12T09:54:30Z">
       <class name="com.tr.DTM.testcases.DB.ProdDBQuery">
-        <test-method status="SKIP" signature="isTcSkip()[pri:0, instance:com.tr.DTM.testcases.DB.ProdDBQuery@27efef64]" name="isTcSkip" is-config="true" duration-ms="5" started-at="2018-12-11T12:14:48Z" finished-at="2018-12-11T12:14:48Z">
+        <test-method status="SKIP" signature="isTcSkip()[pri:0, instance:com.tr.DTM.testcases.DB.ProdDBQuery@27efef64]" name="isTcSkip" is-config="true" duration-ms="6" started-at="2018-12-12T09:54:30Z" finished-at="2018-12-12T09:54:30Z">
           <exception class="org.testng.SkipException">
             <message>
               <![CDATA[skipping the Scenario as Run Mode : N]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.testng.SkipException: skipping the Scenario as Run Mode : N
-at com.tr.DTM.testcases.DB.ProdDBQuery.isTcSkip(ProdDBQuery.java:143)
+at com.tr.DTM.testcases.DB.ProdDBQuery.isTcSkip(ProdDBQuery.java:75)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -52,14 +52,14 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- isTcSkip -->
-        <test-method status="SKIP" signature="getProdDBQuery(java.lang.String, java.util.Hashtable)[pri:0, instance:com.tr.DTM.testcases.DB.ProdDBQuery@27efef64]" name="getProdDBQuery" duration-ms="0" started-at="2018-12-11T12:14:48Z" data-provider="ExcelData" finished-at="2018-12-11T12:14:48Z">
+        <test-method status="SKIP" signature="getProdDBQuery(java.lang.String, java.util.Hashtable)[pri:0, instance:com.tr.DTM.testcases.DB.ProdDBQuery@27efef64]" name="getProdDBQuery" duration-ms="0" started-at="2018-12-12T09:54:30Z" data-provider="ExcelData" finished-at="2018-12-12T09:54:30Z">
           <exception class="org.testng.SkipException">
             <message>
               <![CDATA[skipping the Scenario as Run Mode : N]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.testng.SkipException: skipping the Scenario as Run Mode : N
-at com.tr.DTM.testcases.DB.ProdDBQuery.isTcSkip(ProdDBQuery.java:143)
+at com.tr.DTM.testcases.DB.ProdDBQuery.isTcSkip(ProdDBQuery.java:75)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -94,18 +94,18 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getProdDBQuery -->
-        <test-method status="SKIP" signature="isTcSkip()[pri:0, instance:com.tr.DTM.testcases.DB.ProdDBQuery@27efef64]" name="isTcSkip" is-config="true" duration-ms="0" started-at="2018-12-11T12:14:48Z" finished-at="2018-12-11T12:14:48Z">
+        <test-method status="SKIP" signature="isTcSkip()[pri:0, instance:com.tr.DTM.testcases.DB.ProdDBQuery@27efef64]" name="isTcSkip" is-config="true" duration-ms="0" started-at="2018-12-12T09:54:30Z" finished-at="2018-12-12T09:54:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- isTcSkip -->
-        <test-method status="SKIP" signature="getProdDBQuery(java.lang.String, java.util.Hashtable)[pri:0, instance:com.tr.DTM.testcases.DB.ProdDBQuery@27efef64]" name="getProdDBQuery" duration-ms="0" started-at="2018-12-11T12:14:48Z" data-provider="ExcelData" finished-at="2018-12-11T12:14:48Z">
+        <test-method status="SKIP" signature="getProdDBQuery(java.lang.String, java.util.Hashtable)[pri:0, instance:com.tr.DTM.testcases.DB.ProdDBQuery@27efef64]" name="getProdDBQuery" duration-ms="0" started-at="2018-12-12T09:54:30Z" data-provider="ExcelData" finished-at="2018-12-12T09:54:30Z">
           <exception class="org.testng.SkipException">
             <message>
               <![CDATA[skipping the Scenario as Run Mode : N]]>
             </message>
             <full-stacktrace>
               <![CDATA[org.testng.SkipException: skipping the Scenario as Run Mode : N
-at com.tr.DTM.testcases.DB.ProdDBQuery.isTcSkip(ProdDBQuery.java:143)
+at com.tr.DTM.testcases.DB.ProdDBQuery.isTcSkip(ProdDBQuery.java:75)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)

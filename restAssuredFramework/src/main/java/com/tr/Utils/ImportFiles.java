@@ -1,4 +1,4 @@
-package com.tr.Utility;
+package com.tr.Utils;
 
 public class ImportFiles {
 	public static String InputFile = "DB.xlsx;abc.xlsx";
